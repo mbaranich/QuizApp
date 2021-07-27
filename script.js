@@ -84,6 +84,22 @@ const questions = [
         answers: [
             { text: '4', correct: true },
             { text: '22', correct: false }
+        ],
+
+        question: 'What is 3 * 4?',
+        answers: [
+            { text: '8', correct: false },
+            { text: '12', correct: true },
+            { text: '14', correct: false },
+            { text: '9', correct: false }
+        ],
+
+        question: 'What is 8 / 2?',
+        answers: [
+            { text: '5', correct: false },
+            { text: '4', correct: true },
+            { text: '8', correct: false },
+            { text: '1', correct: false }
         ]
     }
 ]
